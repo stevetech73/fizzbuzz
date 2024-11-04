@@ -1,4 +1,5 @@
 # add your code here
+
 count = 0      # set counter
 
 for count in range(1, 101):      # define the range
